@@ -33,13 +33,13 @@ The objective is to demonstrate a structured approach to validating login functi
 
 ## Project Files
 
-| File                         | Description |
 
-| Test-Scenarios.md           | Login page testing scenarios |
-| Test-Cases.md               | Detailed test cases and testing techniques |
-| Test-Data.md                | Sample input data and expected behavior |
-| Bug-Report-Template.md      | Template for documenting defects |
-| Test-Execution-Report.md    | Template for recording test execution results |
+
+ Test-Scenarios.md     --       Login page testing scenarios 
+ Test-Cases.md           --     Detailed test cases and testing techniques 
+ Test-Data.md              --   Sample input data and expected behavior 
+ Bug-Report-Template.md      -- Template for documenting defects 
+  Test-Execution-Report.md     --Template for recording test execution results 
 
 ## Testing Approach
 
